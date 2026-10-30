@@ -46,6 +46,11 @@ The dashboard provides an overview of financial performance, revenue growth, pro
 - Data: Cleaned financial dataset.
 - Images: Dashboard screenshots.
 - Documentation: Accenture Annual Report 2025.
+- ## Dashboard Preview
+### Executive Financial Dashboard
+![Executive Dashboard](Images/dashboard-overview.png)
+### Financial Performance Analysis
+![Financial Analysis](Images/revenue-analysis.png)
 ## Data Source
 Accenture plc – Annual Report 2025.
 Source: https://www.accenture.com/
